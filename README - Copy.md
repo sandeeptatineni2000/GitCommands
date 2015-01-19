@@ -1,4 +1,4 @@
-# Basic Git Commands
+# Duplicate Basic Git Commands
 
 ### Creating repository online for <b>first time</b>
 
