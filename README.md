@@ -28,3 +28,9 @@ $ git push
 $ git remote set-url origin git@github.com:saitatineni2000/GitCommands.git
 ```
 
+### Working with other user who doesnt have main repo
+
+```sh
+$ First need to fork from the user who has main repo
+$ git clone https://github.com/USER2Name/RepoName.git
+```
